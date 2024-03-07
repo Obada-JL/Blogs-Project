@@ -1,0 +1,27 @@
+.NavBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 85vw;
+}
+.NavContainer {
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  top: 0;
+  position: relative;
+}
+.searchBar {
+  background-color: #f4f4f5;
+  display: flex;
+  align-items: center;
+  padding-right: 5px;
+}
+.searchInput {
+  border: 0;
+  outline: 0;
+  background-color: #f4f4f5;
+  padding: 8px;
+  font-size: 15px;
+}

@@ -1,0 +1,10 @@
+.BlogContainer {
+  width: 400px;
+  height: 470px;
+  border: 1px solid #e8e8ea;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 12px;
+}
